@@ -1,0 +1,8 @@
+html{
+    box-sizing: border-box;
+  }
+  
+  *, *:before, *:after{
+  box-sizing: inherit;
+  }
+  /*Tp, co jest u góry, służy do zmiksowania normalize.css i style.css*/
