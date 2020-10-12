@@ -27,5 +27,12 @@ html {
   color: black;
   width: 624px;
   height: 320px;
-  border-radius:16px;
+  border-radius: 16px;
+}
+.business-card__photo {
+  float: left;
+  height: 100%;
+  margin-left: 33px;
+  margin-top: 37px;
+  margin-right: 32px;
 }
