@@ -37,10 +37,12 @@ html {
   margin-right: 32px;
 }
 .business-card__content {
-
+padding-top:37px;
 }
 .header{
-  
+  weight:400px;
+  margin:0;
+  padding:0'
 }
 .header-h1{
 
